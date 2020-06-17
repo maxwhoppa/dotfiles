@@ -1,4 +1,4 @@
 # Quickstart
-git clone 'git@github.com:kevchn/dotfiles.git' ~/.dotfiles
+git clone 'git@github.com:maxwhoppa/dotfiles.git' ~/.dotfiles
 cd ~/.dotfiles
 ./install
